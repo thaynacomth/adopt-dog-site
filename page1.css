@@ -1,0 +1,116 @@
+
+body {
+  font-size: 14px;
+}
+
+p {
+  font-size: 16px;
+  text-indent: 20px;
+}
+
+#article {
+  text-indent:20px;
+  background-color:#F5F5F5;
+
+}
+
+.titulo {
+  text-align: center;
+}
+
+
+#saiba {
+  color: #d3d3d3;
+}
+
+.nav-link {
+  color:black;
+
+}
+
+.nav {
+  position: relative;
+  margin-left: 30%;
+
+}
+
+.con {
+  position: relative;
+  margin-left: 20px;
+}
+
+.card-title {
+  text-align: center;
+}
+
+.carousel {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+#form {
+  margin-left: 90px;
+  margin-right: 90px;
+  background:url(a2.jpeg) no-repeat;
+  background-size: cover;
+  margin-left: 80px;
+  text-align: center;
+
+}
+
+.formulario {
+font-size: 15px;
+}
+
+.pesquisa {
+  margin-left: 40%;
+
+}
+
+.diva {
+  text-align: center;
+  margin-left: 5%;
+  margin-right: 5%;
+
+}
+
+.tituloComo {
+  font-size: 16px;
+}
+
+.principal {
+text-align: center;
+color: red;
+}
+
+.cachorros {
+  background:url(fundo.jpg) ;
+  background-size: cover;
+}
+
+.adotar {
+  margin-left:5%;
+  margin-right:5%;
+  background:url(index2.jpg) no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  margin-left: 80px;
+  text-align: left;
+
+}
+
+.article {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.tituloAdocao {
+  text-align: center;
+
+}
+
+.btn-adotar {
+ margin-left: 50%;
+}
